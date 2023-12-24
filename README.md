@@ -36,5 +36,7 @@ Explore our findings and visual representations [here](https://github.com/mhwahl
 
 The combined analyses of OLS regression and GWR provide a comprehensive understanding of the diverse factors influencing 911 emergency calls. These insights are crucial for tailored interventions, resource allocation, and strategic planning to enhance emergency services at both broader and localized geographical scales.
 ```
+![Screenshot 1](https://github.com/mhwahla/GWR/assets/51794945/831aa2cf-9f4e-4135-bc41-998a9a86ce65)
 
+![Screenshot 2](https://github.com/mhwahla/GWR/assets/51794945/a2bbc77f-245b-400b-950b-5c5b0b884a5f)
 You can copy and paste this content into your README.md file on GitHub. Adjust the links, headings, and any other details to fit your project's actual content and structure.
