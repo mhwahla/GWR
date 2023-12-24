@@ -1,5 +1,3 @@
-Absolutely! Here's the content formatted in Markdown for a README.md file on GitHub:
-
 ```markdown
 # Geographic Weighted Regression (GWR)
 
